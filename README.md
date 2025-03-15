@@ -34,4 +34,4 @@ Tester le DHCP : Vérifier que les clients reçoivent des adresses IP automatiqu
 Tester le NFS : Vérifier que les clients peuvent accéder aux fichiers partagés.
 Tester le DNS : Vérifier la résolution des noms de domaine interne.
 Tester la sauvegarde : Vérifier que les données sont bien sauvegardées et restaurées.
-Ce projet fournit une base solide pour la gestion d’un réseau sécurisé et optimisé. 
+Ce projet fournit une base solide pour la gestion d’un réseau sécurisé et optimisé.
