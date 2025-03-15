@@ -13,22 +13,28 @@ Gérer la résolution des noms de domaine via un serveur DNS interne.
 Assurer la sécurité des données grâce à un serveur de sauvegarde centralisé.
 Vérifier l’interopérabilité entre les quatre serveurs pour garantir un réseau stable et performant.
 Configuration et Déploiement
+
 1️⃣ Serveur NFS – Partage de fichiers
 Installation et configuration du service NFS.
 Définition des répertoires partagés et des permissions d’accès.
 Montage des partages NFS sur les clients.
+
 2️⃣ Serveur DHCP – Attribution dynamique des adresses IP
 Installation du service DHCP.
 Définition des plages d’adresses IP et des paramètres réseau.
 Tests avec des clients DHCP pour valider la configuration.
+
 3️⃣ Serveur DNS – Résolution des noms de domaine
 Installation et configuration d’un serveur DNS (BIND).
 Création de zones directes et inverses.
 Test de la résolution des noms avec nslookup et dig.
+
 4️⃣ Serveur de Backup – Sauvegarde des données
 Mise en place d’un serveur de sauvegarde avecrsync ou Bacula.
 Programmation des tâches de sauvegarde automatique.
 Vérification et restauration des sauvegardes.
+
+
 Validation et Tests
 Tester le DHCP : Vérifier que les clients reçoivent des adresses IP automatiquement.
 Tester le NFS : Vérifier que les clients peuvent accéder aux fichiers partagés.
